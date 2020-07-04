@@ -22,6 +22,8 @@ Hint:
 
 3. Formatting downloaded data by [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html), desired output example [BTC-USDT-1h.csv](./BTC_USDT_1h.csv)
 
+4. For CryptoCompare api documentaion, you don't need a api key for any requests, but some requests that are not required in our task need api key when coding.
+
 ### Optional
 
 #### 1. Modularize your code
