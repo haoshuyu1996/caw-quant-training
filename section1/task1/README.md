@@ -22,7 +22,7 @@ Hint:
 
 3. Formatting downloaded data by [pandas](https://pandas.pydata.org/pandas-docs/stable/index.html), desired output example [BTC-USDT-1h.csv](./BTC_USDT_1h.csv)
 
-4. For CryptoCompare api documentaions, you don't need a api key for any requests, but some requests that are not required in our task need api key when coding.
+4. You don't need api key for the two endpoints(get histohour data, get market cap toplist) in this task.
 
 ### Optional
 
