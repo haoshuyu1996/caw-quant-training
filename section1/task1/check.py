@@ -1,19 +1,23 @@
 import argparse
 import pandas as pd
 
+def diff(f1, f2):
+    merge = f2.merge(f1, indicator=True,
+                     how='outer').loc[lambda x: x['_merge'] != 'both']
+    return merge
 
-def check_integrity(args):
+def remove_duplicate(data):
 
-    d = pd.read_csv(args.yourdata)
-    s = pd.read_csv(args.sample)
-
-    col = d.columns == s.columns
-
-    search = pd.DataFrame.duplicated(d)
-    d = pd.DataFrame.drop_duplicates(d, ignore_index=True)
-
+    search = pd.DataFrame.duplicated(data)
+    d = pd.DataFrame.drop_duplicates(data, ignore_index=True)
     print('remove ' + str(len(search[search])) + ' duplicates')
 
+    return d
+
+def main():
+    d = pd.read_csv(args.yourdata)
+    s = pd.read_csv(args.sample)
+    col = d.columns == s.columns
     merge = diff(d, s)
 
     if col.all() and len(d.index) == len(s.index):
@@ -47,16 +51,8 @@ def check_integrity(args):
         print('sample columns: ')
         print(s.columns)
         print(merge)
-
-
-
-def diff(f1, f2):
-    merge = f2.merge(f1, indicator=True,
-                     how='outer').loc[lambda x: x['_merge'] != 'both']
-    return merge
-
-
-def main():
+    
+if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         prog='Check csv differences',
         description='check your hourly data with sample file')
@@ -72,10 +68,6 @@ def main():
         required=True,
         help='Input your data, _merge shows right_only if your data has rows that are not in sample data',
         type=argparse.FileType('r'))
-    parser.set_defaults(func=check_integrity)
+
     args = parser.parse_args()
-    args.func(args)
-
-
-if __name__ == "__main__":
     main()

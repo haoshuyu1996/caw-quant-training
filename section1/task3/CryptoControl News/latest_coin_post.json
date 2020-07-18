@@ -1,0 +1,2667 @@
+[
+    {
+        "_id": "5f0cda340b40f100190f8796",
+        "hotness": 73827.9738003146,
+        "activityHotness": 0.3634762405332378,
+        "primaryCategory": "Exchanges",
+        "words": 365,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "A UK cryptocurrency could be a reality soon, reports The Bank of England\u2019s governor, Andrew Bailey. In his latest statement, the governor said that the bank recently discussed the mechanisms of a probable UK cryptocurrency backed by the central bank. Central bank digital currencies, or CBDCs, are\u2026",
+        "publishedAt": "2020-07-13T21:39:43.000Z",
+        "title": "Bank of England exploring UK cryptocurrency, says governor Andrew Bailey",
+        "url": "https://cryptocontrol.io/r/api/article/5f0cda340b40f100190f8796?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5bda96120c38a7001984d502",
+            "name": "Cryptopolitan",
+            "url": "https://www.cryptopolitan.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bda96120c38a7001984d502.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0cda340b40f100190f8796-1594677812468.jpg",
+        "sourceDomain": "cryptopolitan.com",
+        "originalImageUrl": "https://r5y5g3p7.rocketcdn.me/wp-content/uploads/2020/07/Bank-of-England-exploring-UK-cryptocurrency-says-governor-Andrew-Bailey.jpg"
+    },
+    {
+        "_id": "5f0cc5ab0b40f100190ef026",
+        "hotness": 73827.55388536718,
+        "activityHotness": 0.21999647829283975,
+        "primaryCategory": "Analysis",
+        "words": 375,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            }
+        ],
+        "description": "XRP, the fourth-ranked cryptocurrency in the space, has been among the industry\u2019s worst performers. Yet investors in the asset still hold out hope for a repeat of the massive pumps Ripple is known for. Key indicators reveal that the asset has reached a pivotal moment where a decision must be made.\u2026",
+        "publishedAt": "2020-07-13T20:00:12.000Z",
+        "title": "It\u2019s Now Or Never For XRP As Technical Indicators Highlight Pivotal Moment",
+        "url": "https://cryptocontrol.io/r/api/article/5f0cc5ab0b40f100190ef026?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "59d71bd7ef8bf95cc2aaf579",
+            "name": "NewsBTC",
+            "url": "http://www.newsbtc.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71bd7ef8bf95cc2aaf579.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0cc5ab0b40f100190ef026-1594672557501.jpg",
+        "sourceDomain": "newsbtc.com",
+        "originalImageUrl": "https://www.newsbtc.com/wp-content/uploads/2020/02/xrp-ripple-crypto-bitcoin-shutterstock_585502937.jpg"
+    },
+    {
+        "_id": "5f0cc4a80b40f100190eef95",
+        "hotness": 73827.44033289676,
+        "activityHotness": 0.21019400787607845,
+        "primaryCategory": "General",
+        "words": 448,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45de9",
+                "name": "Populous",
+                "slug": "populous",
+                "tradingSymbol": "PPT"
+            }
+        ],
+        "description": "The market sentiments for Bitcoin seem bullish as the price is closed to $9,300. Prominent names and analysts have commented positively on the leading digital asset. Keith McCullough, the head of Hedgeye, said that Bitcoin is on the bullish trend and volatility is at a low position. He tweeted:\u2026",
+        "publishedAt": "2020-07-13T19:22:51.000Z",
+        "title": "Bitcoin Long Term Bullish Signal Confirms; Adoption is the Major...",
+        "url": "https://cryptocontrol.io/r/api/article/5f0cc4a80b40f100190eef95?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5d79ee2e26ceed001aa0514b",
+            "name": "Tokenhell",
+            "url": "https://tokenhell.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5d79ee2e26ceed001aa0514b.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0cc4a80b40f100190eef95-1594672296285.jpg",
+        "sourceDomain": "tokenhell.com",
+        "originalImageUrl": "https://tokenhell.com/wp-content/uploads/bitcoin-14.jpg"
+    },
+    {
+        "_id": "5f0cda390b40f100190f87a0",
+        "hotness": 73827.19812857787,
+        "activityHotness": 0.13715635564324832,
+        "primaryCategory": "General",
+        "words": 221,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5b5bb2068cb221000f92d832",
+                "name": "ARBITRAGE",
+                "slug": "arbitrage",
+                "tradingSymbol": "arb"
+            }
+        ],
+        "description": "Interest in cryptocurrency has relatively risen amongst the institutions. Many cryptocurrency trading platforms have recorded an increasing number of institutional crypto traders. With Huobi exchange gaining about 40 percent institutional trading on its Futures market, the exchange recently shared\u2026",
+        "publishedAt": "2020-07-13T18:21:57.000Z",
+        "title": "Institutional crypto traders: Huobi explains what\u2019s driving up interest",
+        "url": "https://cryptocontrol.io/r/api/article/5f0cda390b40f100190f87a0?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5bda96120c38a7001984d502",
+            "name": "Cryptopolitan",
+            "url": "https://www.cryptopolitan.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bda96120c38a7001984d502.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0cda390b40f100190f87a0-1594677817858.jpg",
+        "sourceDomain": "cryptopolitan.com",
+        "originalImageUrl": "https://r5y5g3p7.rocketcdn.me/wp-content/uploads/2020/04/cryptocurrency-3435862_1920.jpg"
+    },
+    {
+        "_id": "5f0caa120b40f100190e1948",
+        "hotness": 73827.00707935194,
+        "activityHotness": 0.2423108334242607,
+        "primaryCategory": "General",
+        "words": 1305,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462edee",
+                "name": "Bitcoin Gold",
+                "slug": "bitcoin-gold",
+                "tradingSymbol": "BTG"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45de3",
+                "name": "Dogecoin",
+                "slug": "dogecoin",
+                "tradingSymbol": "DOGE"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dda",
+                "name": "ChainLink",
+                "slug": "chainlink",
+                "tradingSymbol": "LINK"
+            },
+            {
+                "_id": "5b4be006c831fd000fc41c2d",
+                "name": "Record",
+                "slug": "record",
+                "tradingSymbol": "rcd"
+            },
+            {
+                "_id": "5a7b931a02ac032bc997826d",
+                "name": "Cloud",
+                "slug": "cloud",
+                "tradingSymbol": "cld"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5a7b931a02ac032bc9978269",
+                "name": "Sense",
+                "slug": "sense",
+                "tradingSymbol": "SENSE"
+            },
+            {
+                "_id": "5b6a328530a21d000f00ae48",
+                "name": "Giant",
+                "slug": "giant-coin",
+                "tradingSymbol": "GIC"
+            },
+            {
+                "_id": "59d8e9a749f28d561056731d",
+                "name": "Casino",
+                "slug": "casino",
+                "tradingSymbol": "casino"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45ed2",
+                "name": "Memetic",
+                "slug": "memetic",
+                "tradingSymbol": "MEME"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            }
+        ],
+        "description": "Bitcoin's mining difficulty is at a record high, Singapore's CBDC may find commercial use and Chinese companies are going in on Filecoin.\n",
+        "publishedAt": "2020-07-13T16:35:19.000Z",
+        "title": "Blockchain Bites: It's Never Been Harder to Mine Bitcoin - CoinDesk",
+        "url": "https://cryptocontrol.io/r/api/article/5f0caa120b40f100190e1948?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "59ce11393a44cf289a9a71f5",
+            "name": "CoinDesk",
+            "url": "http://coindesk.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59ce11393a44cf289a9a71f5.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0caa120b40f100190e1948-1594665490464.jpg",
+        "sourceDomain": "coindesk.com",
+        "originalImageUrl": "https://static.coindesk.com/wp-content/uploads/2020/07/dion-beetson-oF7hh97lVqA-unsplash.jpg"
+    },
+    {
+        "_id": "5f0ca4590b40f100190de6bd",
+        "hotness": 73826.89612608046,
+        "activityHotness": 0.14510756193602167,
+        "primaryCategory": "Analysis",
+        "words": 367,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "5b590f068cb221000fcf9eb5",
+                "name": "View",
+                "slug": "view",
+                "tradingSymbol": "VIEW"
+            }
+        ],
+        "description": "The Ripple price is\u2013after days and weeks of consolidation, one of the top performers gauged by last week\u2019s activity. Adding a ballpark 12 percent against both USD and BTC, momentum appears to be shifting. Pumping buyers\u2019 expectations are supportive news released throughout last week. One Pay FX\u2026",
+        "publishedAt": "2020-07-13T16:30:22.000Z",
+        "title": "Ripple price spikes, will buyers clear $0.25?",
+        "url": "https://cryptocontrol.io/r/api/article/5f0ca4590b40f100190de6bd?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5bda96120c38a7001984d502",
+            "name": "Cryptopolitan",
+            "url": "https://www.cryptopolitan.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bda96120c38a7001984d502.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0ca4590b40f100190de6bd-1594664025766.png",
+        "sourceDomain": "cryptopolitan.com",
+        "originalImageUrl": "https://r5y5g3p7.rocketcdn.me/wp-content/uploads/2020/07/Ripple-XRP.png"
+    },
+    {
+        "_id": "5f0c90060b40f100190d2ed9",
+        "hotness": 73826.81326901306,
+        "activityHotness": 0.22947271675944003,
+        "primaryCategory": "General",
+        "words": 2539,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45daf",
+                "name": "Bitcoin Cash",
+                "slug": "bitcoin-cash",
+                "tradingSymbol": "BCH"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db0",
+                "name": "Litecoin",
+                "slug": "litecoin",
+                "tradingSymbol": "LTC"
+            },
+            {
+                "_id": "5e3844a916c3760019f74d40",
+                "name": "Request",
+                "slug": "request",
+                "tradingSymbol": "REQ"
+            },
+            {
+                "_id": "5b6a328530a21d000f00ae48",
+                "name": "Giant",
+                "slug": "giant-coin",
+                "tradingSymbol": "GIC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbe",
+                "name": "Tether",
+                "slug": "tether",
+                "tradingSymbol": "USDT"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db5",
+                "name": "Monero",
+                "slug": "monero",
+                "tradingSymbol": "XMR"
+            },
+            {
+                "_id": "5b0600845d27780010d289f3",
+                "name": "RED",
+                "slug": "red",
+                "tradingSymbol": "RED"
+            },
+            {
+                "_id": "5a7b931502ac032bc997822c",
+                "name": "Read",
+                "slug": "read",
+                "tradingSymbol": "READ"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "5afcc607ed3b0e000f40cf20",
+                "name": "Stealth",
+                "slug": "stealth",
+                "tradingSymbol": "XST"
+            }
+        ],
+        "description": "The global pandemic Covid-19 is forcing Indians to resort to digital payment platforms when settling bills as well as paying for groceries. Before the Covid-19 outbreak, Indian citizens largely ignored a 2016 government decree that attempted to achieve the same, reports The Economic Times of India.\u2026",
+        "publishedAt": "2020-07-13T15:30:10.000Z",
+        "title": "Covid-19 Forces Indians to Embrace Digital Payments but Country Still Lacks Crypto Regulation",
+        "url": "https://cryptocontrol.io/r/api/article/5f0c90060b40f100190d2ed9?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "59d71c67ef8bf95cc2ab0147",
+            "name": "Bitcoin.com",
+            "url": "https://news.bitcoin.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71c67ef8bf95cc2ab0147.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0c90060b40f100190d2ed9-1594658822393.jpg",
+        "sourceDomain": "news.bitcoin.com",
+        "originalImageUrl": "https://news.bitcoin.com/wp-content/uploads/2020/07/covid-19-forces-indians-to-embrace-digital-payments-but-country-still-lacks-crypto-regulation.jpg"
+    },
+    {
+        "_id": "5f0c6fd20b40f100190bfccb",
+        "hotness": 73826.48391600643,
+        "activityHotness": 0.15822156198526638,
+        "primaryCategory": "Analysis",
+        "words": 525,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            },
+            {
+                "_id": "5b7ca78b0c38a700190ebdff",
+                "name": "Own",
+                "slug": "own",
+                "tradingSymbol": "CHX"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            }
+        ],
+        "description": "After gaining almost 10% over the past week, XRP bulls are currently battling to defend the important support at $0.20.\n",
+        "publishedAt": "2020-07-13T13:57:15.000Z",
+        "title": "Ripple Price Analysis: Following 10% Weekly Gains, XRP Bulls Battling to Defend An Important Support",
+        "url": "https://cryptocontrol.io/r/api/article/5f0c6fd20b40f100190bfccb?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5ce406880175730010f47558",
+            "name": "Crypto Potato",
+            "url": "https://cryptopotato.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ce406880175730010f47558.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0c6fd20b40f100190bfccb-1594650578558.jpg",
+        "sourceDomain": "cryptopotato.com",
+        "originalImageUrl": "https://cryptopotato.com/wp-content/uploads/2020/05/ripple_v3-1.jpg"
+    },
+    {
+        "_id": "5f0c6a2a0b40f100190bd34a",
+        "hotness": 73826.39091043867,
+        "activityHotness": 0.14637340162321402,
+        "primaryCategory": "General",
+        "words": 462,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5e3844a916c3760019f74d48",
+                "name": "Safe",
+                "slug": "safe",
+                "tradingSymbol": "SAFE"
+            }
+        ],
+        "description": "Ripple founder and Executive Chairman Chris Larsen is moving against theft, rubbery, and some other social decadence by funding the installation of surveillance cameras across San Francisco. The development comes as the Black Live Matter protests and calls for the defunding of police thicken. In\u2026",
+        "publishedAt": "2020-07-13T13:28:02.000Z",
+        "title": "Ripple Founder Chris Larsen Moves Against Theft in San Francisco with $4 Million",
+        "url": "https://cryptocontrol.io/r/api/article/5f0c6a2a0b40f100190bd34a?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5b922ec60c38a7001951cbe6",
+            "name": "Today's Gazette",
+            "url": "https://todaysgazette.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b922ec60c38a7001951cbe6.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0c6a2a0b40f100190bd34a-1594649130686.png",
+        "sourceDomain": "newslogical.com",
+        "originalImageUrl": "https://newslogical.com/wp-content/uploads/2020/07/Chris-Larsen.png"
+    },
+    {
+        "_id": "5f0c4aeb0b40f100190ab839",
+        "hotness": 73826.05017762694,
+        "activityHotness": 0.19439058989071287,
+        "primaryCategory": "General",
+        "words": 528,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45e01",
+                "name": "VeChain",
+                "slug": "vechain",
+                "tradingSymbol": "VET"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            }
+        ],
+        "description": "SBI holdings, a financial services company, which has huge investments in Ripple(XRP) is making the headlines. Given the information being exploded about Ripple and Vechain partnering via SBI which is already using Ripple\u2019s technology, the crypto community is expecting some great news in the coming\u2026",
+        "publishedAt": "2020-07-13T11:08:05.000Z",
+        "title": "Ripple and Vechain Partnering via SBI Holdings- Is it True?",
+        "url": "https://cryptocontrol.io/r/api/article/5f0c4aeb0b40f100190ab839?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5bf00e7e3c4bad0016748067",
+            "name": "Coinpedia",
+            "url": "https://coinpedia.org/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bf00e7e3c4bad0016748067.png"
+        },
+        "sourceDomain": "coinpedia.org",
+        "originalImageUrl": "https://image.coinpedia.org/wp-content/uploads/2020/07/13110714/vechain-ripple-partnersip.png"
+    },
+    {
+        "_id": "5f0c33720b40f1001909f6a0",
+        "hotness": 73825.69027748957,
+        "activityHotness": 0.18796267475025638,
+        "primaryCategory": "General",
+        "words": 975,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5b0600845d27780010d289f3",
+                "name": "RED",
+                "slug": "red",
+                "tradingSymbol": "RED"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbc",
+                "name": "Cardano",
+                "slug": "cardano",
+                "tradingSymbol": "ADA"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dda",
+                "name": "ChainLink",
+                "slug": "chainlink",
+                "tradingSymbol": "LINK"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45f2b",
+                "name": "Altcoin",
+                "slug": "altcoin-alt",
+                "tradingSymbol": "alt"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            }
+        ],
+        "description": "The total crypto market cap added $11.1 billion to its value for the last seven days and now stands at $274.4 billion. The top 10 currencies were all green for the same period with ChainLink (LINK) and Cardano (ADA) leading the pack with 66.8 and 37 percent of gains respectively. By the time of\u2026",
+        "publishedAt": "2020-07-13T09:00:50.000Z",
+        "title": "Bitcoin, Ether, and XRP Weekly Market Update July 13, 2020",
+        "url": "https://cryptocontrol.io/r/api/article/5f0c33720b40f1001909f6a0?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5b4b5b4cc831fd000f6dc0fc",
+            "name": "BTC Manager",
+            "url": "https://btcmanager.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b4b5b4cc831fd000f6dc0fc.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0c33720b40f1001909f6a0-1594635123396.jpg",
+        "sourceDomain": "btcmanager.com",
+        "originalImageUrl": "https://btcmanager.com/wp-content/uploads/2016/01/placeholder-bear-bull-together.jpg"
+    },
+    {
+        "_id": "5f0c333e0b40f1001909f68c",
+        "hotness": 73825.62869400541,
+        "activityHotness": 0.20952733874025953,
+        "primaryCategory": "General",
+        "words": 382,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5c05c3873c4bad0016c2504d",
+                "name": "Online",
+                "slug": "online",
+                "tradingSymbol": "oio"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbc",
+                "name": "Cardano",
+                "slug": "cardano",
+                "tradingSymbol": "ADA"
+            },
+            {
+                "_id": "5b6a328530a21d000f00ae48",
+                "name": "Giant",
+                "slug": "giant-coin",
+                "tradingSymbol": "GIC"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Previous giveaway scams have used BTC, ETH, XRP, and other cryptocurrencies, as well as cryptocurrency exchanges.",
+        "publishedAt": "2020-07-13T08:30:54.000Z",
+        "title": "Cardano (ADA) Users Targeted as Latest in Series of Youtube \u2018Giveaway\u2019 Scams",
+        "url": "https://cryptocontrol.io/r/api/article/5f0c333e0b40f1001909f68c?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5b4b5a26c831fd000f6cff77",
+            "name": "Finance Magnates",
+            "url": "https://www.financemagnates.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b4b5a26c831fd000f6cff77.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0c333e0b40f1001909f68c-1594635071058.jpg",
+        "sourceDomain": "financemagnates.com",
+        "originalImageUrl": "https://www.financemagnates.com/wp-content/uploads/2019/02/YouTube-header.jpg"
+    },
+    {
+        "_id": "5f0c02df0b40f1001908a189",
+        "hotness": 73825.19676050975,
+        "activityHotness": 0.16259384308664954,
+        "primaryCategory": "Analysis",
+        "words": 313,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5c05c3873c4bad0016c2504d",
+                "name": "Online",
+                "slug": "online",
+                "tradingSymbol": "oio"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            }
+        ],
+        "description": "Ripple has been making headlines a lot due to the firm\u2019s multiple achievements. The San Francisco-based company has been making huge efforts to boost the complete XRP ecosystem and to also push the mainstream adoption of the digital asset XRP. Speaking of XRP, at the moment of writing this article,\u2026",
+        "publishedAt": "2020-07-13T06:12:18.000Z",
+        "title": "Ripple Makes Efforts To Scale XRP Payment Products On A Global Scale",
+        "url": "https://cryptocontrol.io/r/api/article/5f0c02df0b40f1001908a189?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5bac83ff0c38a70019d8ffd9",
+            "name": "Oracle Times",
+            "url": "https://oracletimes.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bac83ff0c38a70019d8ffd9.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0c02df0b40f1001908a189-1594622688159.jpg",
+        "sourceDomain": "cryptogazette.com",
+        "originalImageUrl": "https://cryptogazette.com/wp-content/uploads/2020/06/ripple-effect-background.jpg"
+    },
+    {
+        "_id": "5f0bf22c0b40f10019081a19",
+        "hotness": 73824.9381454742,
+        "activityHotness": 0.15481214085096875,
+        "primaryCategory": "General",
+        "words": 316,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "The Bank of Japan reported the supply of money stock in circulation increased 6% in June following the receipt of economic relief payments.\nInvestors in Japan increased their crypto holdings during the early stages of the pandemic before the government issued economic relief payments.\u00a0\nAccording to\u2026",
+        "publishedAt": "2020-07-13T04:42:00.000Z",
+        "title": "Japanese Residents Have Cash to Spare, But is it Going into Crypto?",
+        "url": "https://cryptocontrol.io/r/api/article/5f0bf22c0b40f10019081a19?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "59d70be3ef8bf95cc2aa2b4f",
+            "name": "CoinTelegraph",
+            "url": "https://cointelegraph.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d70be3ef8bf95cc2aa2b4f.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0bf22c0b40f10019081a19-1594618412775.jpg",
+        "sourceDomain": "cointelegraph.com",
+        "originalImageUrl": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy83ZDZhZDFjNGE4ZGNiNDBhMWJjYmE0OWRhMGIyY2NjYi5qcGc=.jpg"
+    },
+    {
+        "_id": "5f0bdbbe0b40f10019075eb5",
+        "hotness": 73824.68039594687,
+        "activityHotness": 0.1678033542749897,
+        "primaryCategory": "Analysis",
+        "words": 307,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5b3425042b8c16000fb017fa",
+                "name": "FLIP",
+                "slug": "flip",
+                "tradingSymbol": "FLP"
+            }
+        ],
+        "description": "Ripple continues to narrow down at $0.20 after multiple rejections at the descending trendline. XRP/USD poised for declines targeting $0.19 as observed with the deteriorating technical picture. Ripple (XRP) is slowly easing into consolidation after hitting a wall at $0.21 in last week\u2019s impeccable\u2026",
+        "publishedAt": "2020-07-13T03:04:32.000Z",
+        "title": "Ripple Price Pivotal At $0.20 As Reversal To $0.19 Lingers",
+        "url": "https://cryptocontrol.io/r/api/article/5f0bdbbe0b40f10019075eb5?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5acce099ec0af7be35c79e60",
+            "name": "CoinGape",
+            "url": "https://coingape.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5acce099ec0af7be35c79e60.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0bdbbe0b40f10019075eb5-1594612670673.jpg",
+        "sourceDomain": "coingape.com",
+        "originalImageUrl": "https://cdn.coingape.com/wp-content/uploads/2020/01/23205242/Webp.net-resizeimage-23.jpg"
+    },
+    {
+        "_id": "5f0bb99a0b40f10019066b0a",
+        "hotness": 73824.14101584457,
+        "activityHotness": 0.15481214085096875,
+        "primaryCategory": "Analysis",
+        "words": 492,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            }
+        ],
+        "description": "XRP has been rising from bear market levels after months of weakness relative to the rest of the crypto market. The now fourth-ranked cryptocurrency is up over 12 percent against USD in the prior week already. At the high, on the dollar-based pair, the asset was up 20 percent. Since declining to a\u2026",
+        "publishedAt": "2020-07-12T23:55:02.000Z",
+        "title": "XRP Price Analysis: Buyers Bolster XRP/USD Upside Bias Past $0.20 Following Ripple Extension of XRP Payment Worldwide",
+        "url": "https://cryptocontrol.io/r/api/article/5f0bb99a0b40f10019066b0a?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5bacc03a0c38a7001908f88f",
+            "name": "Kryptomoney",
+            "url": "http://kryptomoney.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bacc03a0c38a7001908f88f.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0bb99a0b40f10019066b0a-1594603930465.png",
+        "sourceDomain": "kryptomoney.com",
+        "originalImageUrl": "https://kryptomoney.com/wp-content/uploads/2020/07/download-8.png"
+    },
+    {
+        "_id": "5f0b3a410b40f10019024e54",
+        "hotness": 73822.74896051102,
+        "activityHotness": 0.1631271776841858,
+        "primaryCategory": "General",
+        "words": 387,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "5b7ca78b0c38a700190ebdff",
+                "name": "Own",
+                "slug": "own",
+                "tradingSymbol": "CHX"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Chris Larsen is funding a $4 million surveillance system for the city.",
+        "publishedAt": "2020-07-12T15:30:54.000Z",
+        "title": "Why Ripple founder is building a surveillance network in San Francisco",
+        "url": "https://cryptocontrol.io/r/api/article/5f0b3a410b40f10019024e54?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5badd2e80c38a70019e35b97",
+            "name": "Decrypt Media",
+            "url": "https://decryptmedia.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5badd2e80c38a70019e35b97.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0b3a410b40f10019024e54-1594571329381.jpg",
+        "sourceDomain": "decrypt.co",
+        "originalImageUrl": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2020/07/shutterstock_180735251-gID_5.jpg"
+    },
+    {
+        "_id": "5f0b2a300b40f1001901cb9b",
+        "hotness": 73822.77318872194,
+        "activityHotness": 0.27263316639056,
+        "primaryCategory": "Government",
+        "words": 960,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45db9",
+                "name": "Qtum",
+                "slug": "qtum",
+                "tradingSymbol": "QTUM"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dcf",
+                "name": "MaidSafeCoin",
+                "slug": "maidsafecoin",
+                "tradingSymbol": "MAID"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45e4b",
+                "name": "PotCoin",
+                "slug": "potcoin",
+                "tradingSymbol": "POT"
+            },
+            {
+                "_id": "5a7b931a02ac032bc997826d",
+                "name": "Cloud",
+                "slug": "cloud",
+                "tradingSymbol": "cld"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db5",
+                "name": "Monero",
+                "slug": "monero",
+                "tradingSymbol": "XMR"
+            },
+            {
+                "_id": "5b6249888cb221000f08d39b",
+                "name": "Ethereum Monero",
+                "slug": "ethereum-monero",
+                "tradingSymbol": "exmr"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db1",
+                "name": "Dash",
+                "slug": "dash",
+                "tradingSymbol": "DASH"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db0",
+                "name": "Litecoin",
+                "slug": "litecoin",
+                "tradingSymbol": "LTC"
+            },
+            {
+                "_id": "5e3844a916c3760019f74c8b",
+                "name": "CREDIT",
+                "slug": "credit",
+                "tradingSymbol": "CREDIT"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45daf",
+                "name": "Bitcoin Cash",
+                "slug": "bitcoin-cash",
+                "tradingSymbol": "BCH"
+            }
+        ],
+        "description": "If you are thinking of launching a site, either for blogging or eCommerce, you first need to rent a server from an online web hosting service. As a cryptocurrency owner, you might be thinking of using your cryptocurrencies to pay for your hosting services or to remain anonymous online. Either way,\u2026",
+        "publishedAt": "2020-07-12T15:00:12.000Z",
+        "title": "Top Web Hosting Services That Accept Payments in Cryptocurrencies",
+        "url": "https://cryptocontrol.io/r/api/article/5f0b2a300b40f1001901cb9b?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5af1c9d401aed341ae236047",
+            "name": "CoinDoo",
+            "url": "https://coindoo.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5af1c9d401aed341ae236047.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0b2a300b40f1001901cb9b-1594567216476.jpg",
+        "sourceDomain": "coindoo.com",
+        "originalImageUrl": "https://coindoo.com/wp-content/uploads/2020/07/web-hosting-cryptocurrencies.jpg"
+    },
+    {
+        "_id": "5f0bc3720b40f1001906a4da",
+        "hotness": 73822.74734299036,
+        "activityHotness": 0.24678743481123133,
+        "primaryCategory": "Government",
+        "words": 960,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45db9",
+                "name": "Qtum",
+                "slug": "qtum",
+                "tradingSymbol": "QTUM"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dcf",
+                "name": "MaidSafeCoin",
+                "slug": "maidsafecoin",
+                "tradingSymbol": "MAID"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45e4b",
+                "name": "PotCoin",
+                "slug": "potcoin",
+                "tradingSymbol": "POT"
+            },
+            {
+                "_id": "5a7b931a02ac032bc997826d",
+                "name": "Cloud",
+                "slug": "cloud",
+                "tradingSymbol": "cld"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db5",
+                "name": "Monero",
+                "slug": "monero",
+                "tradingSymbol": "XMR"
+            },
+            {
+                "_id": "5b6249888cb221000f08d39b",
+                "name": "Ethereum Monero",
+                "slug": "ethereum-monero",
+                "tradingSymbol": "exmr"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db1",
+                "name": "Dash",
+                "slug": "dash",
+                "tradingSymbol": "DASH"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db0",
+                "name": "Litecoin",
+                "slug": "litecoin",
+                "tradingSymbol": "LTC"
+            },
+            {
+                "_id": "5e3844a916c3760019f74c8b",
+                "name": "CREDIT",
+                "slug": "credit",
+                "tradingSymbol": "CREDIT"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45daf",
+                "name": "Bitcoin Cash",
+                "slug": "bitcoin-cash",
+                "tradingSymbol": "BCH"
+            }
+        ],
+        "description": "If you are thinking of launching a site, either for blogging or eCommerce, you first need to rent a server from an online web hosting service. As a cryptocurrency owner, you might be thinking of using your cryptocurrencies to pay for your hosting services or to remain anonymous online. Either way,\u2026",
+        "publishedAt": "2020-07-12T15:00:12.000Z",
+        "title": "Top Web Hosting Services That Accept Payments in Cryptocurrencies",
+        "url": "https://cryptocontrol.io/r/api/article/5f0bc3720b40f1001906a4da?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5af1c9d401aed341ae236047",
+            "name": "CoinDoo",
+            "url": "https://coindoo.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5af1c9d401aed341ae236047.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0bc3720b40f1001906a4da-1594606451193.jpg",
+        "sourceDomain": "coindoo.com",
+        "originalImageUrl": "https://coindoo.com/wp-content/uploads/2020/07/web-hosting-cryptocurrencies.jpg"
+    },
+    {
+        "_id": "5f0b21680b40f100190174db",
+        "hotness": 73822.61966879475,
+        "activityHotness": 0.17466879474879754,
+        "primaryCategory": "General",
+        "words": 308,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "Brazilian banking giants, Banco Santander operating Ripple payment platform in over 19 countries, are set to expand into other countries.1 This is according to Ed Metzger, chief technology officer for One Pay FX, who said clients also feel more comfortable using the new service. The international\u2026",
+        "publishedAt": "2020-07-12T14:40:12.000Z",
+        "title": "Ripple payment platform to expand into new countries",
+        "url": "https://cryptocontrol.io/r/api/article/5f0b21680b40f100190174db?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5bda96120c38a7001984d502",
+            "name": "Cryptopolitan",
+            "url": "https://www.cryptopolitan.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bda96120c38a7001984d502.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0b21680b40f100190174db-1594564968168.jpg",
+        "sourceDomain": "cryptopolitan.com",
+        "originalImageUrl": "https://r5y5g3p7.rocketcdn.me/wp-content/uploads/2020/07/Ripple-payment-platform.jpg"
+    },
+    {
+        "_id": "5f0b0e6f0b40f1001900cb82",
+        "hotness": 73821.92082526298,
+        "activityHotness": 0.15364933705145686,
+        "primaryCategory": "Exchanges",
+        "words": 372,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Central bank digital currency (CBDC) is the future of finance that may replace cash soon. But before it applies on a mass level, its pros and cons are being discussed in the fintech world. User privacy is the topmost issue related to CBDC\u2019s implementation. The need for digital currency has been felt\u2026",
+        "publishedAt": "2020-07-12T10:36:11.000Z",
+        "title": "Central Bank Digital Currency is the Need of the Hour, but Privacy is the major...",
+        "url": "https://cryptocontrol.io/r/api/article/5f0b0e6f0b40f1001900cb82?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5d79ee2e26ceed001aa0514b",
+            "name": "Tokenhell",
+            "url": "https://tokenhell.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5d79ee2e26ceed001aa0514b.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0b0e6f0b40f1001900cb82-1594560111385.jpg",
+        "sourceDomain": "tokenhell.com",
+        "originalImageUrl": "https://tokenhell.com/wp-content/uploads/Banks-in-Germany-can-sell-and-store-cryptocurrencies-in-2020-1.jpg"
+    },
+    {
+        "_id": "5f0ad2060b40f10019ff02d5",
+        "hotness": 73821.59546308072,
+        "activityHotness": 0.20986122886681097,
+        "primaryCategory": "ICO",
+        "words": 584,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbc",
+                "name": "Cardano",
+                "slug": "cardano",
+                "tradingSymbol": "ADA"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "Cryptocurrency scams are a recurring aspect of the market.\n",
+        "publishedAt": "2020-07-12T08:18:49.000Z",
+        "title": "Cardano (ADA) founder Charles Hoskinson blasts YouTube over crypto scams",
+        "url": "https://cryptocontrol.io/r/api/article/5f0ad2060b40f10019ff02d5?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5b4b590dc831fd000f6c4c66",
+            "name": "CryptoSlate",
+            "url": "https://cryptoslate.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b4b590dc831fd000f6c4c66.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0ad2060b40f10019ff02d5-1594544647383.jpg",
+        "sourceDomain": "cryptoslate.com",
+        "originalImageUrl": "https://cryptoslate.com/wp-content/uploads/2020/07/youtube.jpg"
+    },
+    {
+        "_id": "5f0abdfb0b40f10019fe7b02",
+        "hotness": 73821.49272874596,
+        "activityHotness": 0.23402504226184836,
+        "primaryCategory": "Exchanges",
+        "words": 391,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45daf",
+                "name": "Bitcoin Cash",
+                "slug": "bitcoin-cash",
+                "tradingSymbol": "BCH"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db0",
+                "name": "Litecoin",
+                "slug": "litecoin",
+                "tradingSymbol": "LTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db2",
+                "name": "NEM",
+                "slug": "nem",
+                "tradingSymbol": "XEM"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            }
+        ],
+        "description": "In Japan, the popularity of digital assets has increased in recent some months. The new report shows that digital assets holdings on the part of investors have been jumped to an unprecedented level since the onset of the Coronavirus pandemic. Japan Virtual and Crypto Assets Exchange Association has\u2026",
+        "publishedAt": "2020-07-12T07:33:08.000Z",
+        "title": "Due to COVID-19, Bitcoin Holdings in Japanese Exchanges Have Witnessed a Sharp...",
+        "url": "https://cryptocontrol.io/r/api/article/5f0abdfb0b40f10019fe7b02?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5d79ee2e26ceed001aa0514b",
+            "name": "Tokenhell",
+            "url": "https://tokenhell.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5d79ee2e26ceed001aa0514b.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0abdfb0b40f10019fe7b02-1594539516273.jpg",
+        "sourceDomain": "tokenhell.com",
+        "originalImageUrl": "https://tokenhell.com/wp-content/uploads/bitcoin-11.jpg"
+    },
+    {
+        "_id": "5f0a51440b40f10019fb2268",
+        "hotness": 73820.04220465793,
+        "activityHotness": 0.20715836162801904,
+        "primaryCategory": "Analysis",
+        "words": 497,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5e3844a816c3760019f74be2",
+                "name": "Rally",
+                "slug": "rally",
+                "tradingSymbol": "RALLY"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45de5",
+                "name": "Status",
+                "slug": "status",
+                "tradingSymbol": "SNT"
+            }
+        ],
+        "description": "After years of underperformance compared to the rest of the crypto market, XRP has been pumping from bear market lows. But just as the altcoin reaches a key level on its Bitcoin trading pair, an ominous sell signal has triggered.\u00a0 Will the recent rally in Ripple fully retrace as pumps have in the\u2026",
+        "publishedAt": "2020-07-11T23:00:37.000Z",
+        "title": "XRP Rally Risks Strong Retracement in Pivotal Battle With Bitcoin",
+        "url": "https://cryptocontrol.io/r/api/article/5f0a51440b40f10019fb2268?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "59d71bd7ef8bf95cc2aaf579",
+            "name": "NewsBTC",
+            "url": "http://www.newsbtc.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71bd7ef8bf95cc2aaf579.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0a51440b40f10019fb2268-1594511685464.jpg",
+        "sourceDomain": "newsbtc.com",
+        "originalImageUrl": "https://www.newsbtc.com/wp-content/uploads/2020/06/shutterstock_1253131831.jpg"
+    },
+    {
+        "_id": "5f0a391d0b40f10019fa7240",
+        "hotness": 73819.87142030019,
+        "activityHotness": 0.20331844833456547,
+        "primaryCategory": "Analysis",
+        "words": 518,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74ff3",
+                "name": "Honest",
+                "slug": "honest",
+                "tradingSymbol": "HNST"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            }
+        ],
+        "description": "Like other altcoins, XRP has rallied against Bitcoin over the past few days. While the leading cryptocurrency has stalled in the low-$9,000s, XRP has begun to push past the psychological resistance of $0.20. Even after BTC retraced by 3% from its local highs, the altcoin remains above $0.20. Some\u2026",
+        "publishedAt": "2020-07-11T22:00:31.000Z",
+        "title": "Last Time This Signal Appeared, XRP Dove 35% Against Bitcoin. It\u2019s Back",
+        "url": "https://cryptocontrol.io/r/api/article/5f0a391d0b40f10019fa7240?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "59d8e471ef8bf95cc2c16858",
+            "name": "Bitcoinist",
+            "url": "https://bitcoinist.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d8e471ef8bf95cc2c16858.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0a391d0b40f10019fa7240-1594505501387.jpg",
+        "sourceDomain": "bitcoinist.com",
+        "originalImageUrl": "https://bitcoinist.com/wp-content/uploads/2020/06/shutterstock_1251353494-1920x1280.jpg"
+    },
+    {
+        "_id": "5f0a3a5f0b40f10019fa7b48",
+        "hotness": 73819.79392171746,
+        "activityHotness": 0.18586616190375188,
+        "primaryCategory": "General",
+        "words": 378,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            }
+        ],
+        "description": "The Bitcoin, Ripple and Ethereum holdings in Japanese exchanges have surged since March, since the global outbreak of the Coronavirus.\n",
+        "publishedAt": "2020-07-11T21:38:54.000Z",
+        "title": "Bitcoin Holdings Explode In Japanese Exhanges Since COVID Outbreak",
+        "url": "https://cryptocontrol.io/r/api/article/5f0a3a5f0b40f10019fa7b48?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5ac5f375ec0af7be35314264",
+            "name": "Coin Insider",
+            "url": "https://www.coininsider.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ac5f375ec0af7be35314264.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0a3a5f0b40f10019fa7b48-1594505823260.jpg",
+        "sourceDomain": "coininsider.com",
+        "originalImageUrl": "https://www.coininsider.com/wp-content/uploads/2018/03/Japan-1200x630-cropped.jpg"
+    },
+    {
+        "_id": "5f0a3a930b40f10019fa7b62",
+        "hotness": 73819.60822037325,
+        "activityHotness": 0.1672944473242426,
+        "primaryCategory": "General",
+        "words": 556,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5b7ca78b0c38a700190ebdff",
+                "name": "Own",
+                "slug": "own",
+                "tradingSymbol": "CHX"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Over the past few weeks, YouTube cryptocurrency giveaway scams have been gaining popularity for their increased fraudulent ads where crypto CEOs and Founders have been impersonated, and their identity used to defraud unsuspecting YouTube viewers of millions of cryptocurrencies. Cryptocurrency\u2026",
+        "publishedAt": "2020-07-11T20:38:44.000Z",
+        "title": "Binance CEO CZ Reacts After Appearing in Latest YouTube Bitcoin Giveaway Scam",
+        "url": "https://cryptocontrol.io/r/api/article/5f0a3a930b40f10019fa7b62?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5adc20e7ec0af7be3539d369",
+            "name": "ZyCrypto",
+            "url": "https://zycrypto.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5adc20e7ec0af7be3539d369.png"
+        },
+        "sourceDomain": "zycrypto.com",
+        "originalImageUrl": "https://zycrypto.com/wp-content/uploads/2020/04/YouTube-Suspends-Ripple-CTO\u2019s-Channel-Only-A-Week-After-A-Lawsuit-Was-Filed-By-Ripple.jpg"
+    },
+    {
+        "_id": "5f09f3190b40f10019f814f6",
+        "hotness": 73819.03648016597,
+        "activityHotness": 0.17129498078561253,
+        "primaryCategory": "Analysis",
+        "words": 356,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            }
+        ],
+        "description": "XRP Price Analysis \u2013 July 10 The Ripple (XRP) bulls hit resistance at $0.205, but the price may likely bounce back if the $0.200 could [...]\n",
+        "publishedAt": "2020-07-11T17:11:28.000Z",
+        "title": "Ripple Price Prediction: XRP/USD Faces Down After the Price Hit $0.206 Level",
+        "url": "https://cryptocontrol.io/r/api/article/5f09f3190b40f10019f814f6?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5ccabcb670d7470010854415",
+            "name": "InsideBitcoins",
+            "url": "https://insidebitcoins.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ccabcb670d7470010854415.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f09f3190b40f10019f814f6-1594487577668.png",
+        "sourceDomain": "insidebitcoins.com",
+        "originalImageUrl": "https://insidebitcoins.com/wp-content/uploads/2020/07/XRPUSD_10072020.png"
+    },
+    {
+        "_id": "5f09f72b0b40f10019f844d7",
+        "hotness": 73819.01817844613,
+        "activityHotness": 0.26563214983329514,
+        "primaryCategory": "General",
+        "words": 2037,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45daf",
+                "name": "Bitcoin Cash",
+                "slug": "bitcoin-cash",
+                "tradingSymbol": "BCH"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db0",
+                "name": "Litecoin",
+                "slug": "litecoin",
+                "tradingSymbol": "LTC"
+            },
+            {
+                "_id": "5b6a328530a21d000f00ae48",
+                "name": "Giant",
+                "slug": "giant-coin",
+                "tradingSymbol": "GIC"
+            },
+            {
+                "_id": "5e3844a916c3760019f74d40",
+                "name": "Request",
+                "slug": "request",
+                "tradingSymbol": "REQ"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbe",
+                "name": "Tether",
+                "slug": "tether",
+                "tradingSymbol": "USDT"
+            },
+            {
+                "_id": "5b0600845d27780010d289f3",
+                "name": "RED",
+                "slug": "red",
+                "tradingSymbol": "RED"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db5",
+                "name": "Monero",
+                "slug": "monero",
+                "tradingSymbol": "XMR"
+            },
+            {
+                "_id": "5a7b931502ac032bc997822c",
+                "name": "Read",
+                "slug": "read",
+                "tradingSymbol": "READ"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "5afcc607ed3b0e000f40cf20",
+                "name": "Stealth",
+                "slug": "stealth",
+                "tradingSymbol": "XST"
+            }
+        ],
+        "description": "A Parisian street artist is receiving hundreds of dollars every day in bitcoin donations from his painting that speaks about \u201cfiat and money printing.\u201d Pascal Boyart\u2019s latest mural, \u201cConfessions of a Red Jester\u201d, is a modern interpretation of the 1862 painting \u201cSta\u0144czyk\u201d by Polish romanticist\u2026",
+        "publishedAt": "2020-07-11T16:30:55.000Z",
+        "title": "\u2018Fiat and Money Printing\u2019 Street Mural Earns $500 in Bitcoin Donations in Five Days",
+        "url": "https://cryptocontrol.io/r/api/article/5f09f72b0b40f10019f844d7?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "59d71c67ef8bf95cc2ab0147",
+            "name": "Bitcoin.com",
+            "url": "https://news.bitcoin.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71c67ef8bf95cc2ab0147.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f09f72b0b40f10019f844d7-1594488620474.jpg",
+        "sourceDomain": "news.bitcoin.com",
+        "originalImageUrl": "https://news.bitcoin.com/wp-content/uploads/2020/07/fiat-and-money-printing-street-mural-earns-500-in-bitcoin-donations-in-five-days.jpg"
+    },
+    {
+        "_id": "5f09b0e90b40f10019f5c379",
+        "hotness": 73818.08463438107,
+        "activityHotness": 0.2648658625587382,
+        "primaryCategory": "General",
+        "words": 2069,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45daf",
+                "name": "Bitcoin Cash",
+                "slug": "bitcoin-cash",
+                "tradingSymbol": "BCH"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db0",
+                "name": "Litecoin",
+                "slug": "litecoin",
+                "tradingSymbol": "LTC"
+            },
+            {
+                "_id": "5e3844a916c3760019f74d40",
+                "name": "Request",
+                "slug": "request",
+                "tradingSymbol": "REQ"
+            },
+            {
+                "_id": "5b6a328530a21d000f00ae48",
+                "name": "Giant",
+                "slug": "giant-coin",
+                "tradingSymbol": "GIC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbe",
+                "name": "Tether",
+                "slug": "tether",
+                "tradingSymbol": "USDT"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db5",
+                "name": "Monero",
+                "slug": "monero",
+                "tradingSymbol": "XMR"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "5afcc607ed3b0e000f40cf20",
+                "name": "Stealth",
+                "slug": "stealth",
+                "tradingSymbol": "XST"
+            },
+            {
+                "_id": "5a7b931502ac032bc997822c",
+                "name": "Read",
+                "slug": "read",
+                "tradingSymbol": "READ"
+            }
+        ],
+        "description": "About 150 mountain bikers will compete at this year\u2019s edition of the Munga MTB race in South Africa. The race will commence in the first week of December. The top three finishers in each category will share the 1.5 bitcoin in prize money. The Bitstamp sponsored race was launched in 2015. Bikers from\u2026",
+        "publishedAt": "2020-07-11T10:55:07.000Z",
+        "title": "Bitcoin Prize For Winners Of South Africa Mountain Bike Race",
+        "url": "https://cryptocontrol.io/r/api/article/5f09b0e90b40f10019f5c379?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "59d71c67ef8bf95cc2ab0147",
+            "name": "Bitcoin.com",
+            "url": "https://news.bitcoin.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71c67ef8bf95cc2ab0147.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f09b0e90b40f10019f5c379-1594470635497.jpeg",
+        "sourceDomain": "news.bitcoin.com",
+        "originalImageUrl": "https://news.bitcoin.com/wp-content/uploads/2020/07/4e539346-48b5-4619-8938-136becd75c95.jpeg"
+    },
+    {
+        "_id": "5f098eeb0b40f10019f4d41a",
+        "hotness": 73817.80003916511,
+        "activityHotness": 0.17466879474879754,
+        "primaryCategory": "Blockchain",
+        "words": 462,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            }
+        ],
+        "description": "Nothing less than half of Banco Santander\u2019s global remittance service that\u2019s being offered to 140 million global commercial and retail customers can now be handled by Ripple-based One Pay Fx as the digital application expands to 19 countries. One Pay FX Chief Technology Officer, Ed Metzger, said\u2026",
+        "publishedAt": "2020-07-11T09:45:08.000Z",
+        "title": "Santander\u2019s Customers Forced Us into Finding Ripple \u2013 One Pay FX CTO",
+        "url": "https://cryptocontrol.io/r/api/article/5f098eeb0b40f10019f4d41a?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5b922ec60c38a7001951cbe6",
+            "name": "Today's Gazette",
+            "url": "https://todaysgazette.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b922ec60c38a7001951cbe6.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f098eeb0b40f10019f4d41a-1594461932083.png",
+        "sourceDomain": "newslogical.com",
+        "originalImageUrl": "https://newslogical.com/wp-content/uploads/2019/05/Ripple-new.png"
+    },
+    {
+        "_id": "5f0977900b40f10019f42578",
+        "hotness": 73817.31035257144,
+        "activityHotness": 0.17975071958841882,
+        "primaryCategory": "Exchanges",
+        "words": 325,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5b6a328530a21d000f00ae48",
+                "name": "Giant",
+                "slug": "giant-coin",
+                "tradingSymbol": "GIC"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5c05c3873c4bad0016c2504d",
+                "name": "Online",
+                "slug": "online",
+                "tradingSymbol": "oio"
+            }
+        ],
+        "description": "Ripple has been seeing a lot of success this year despite the global crisis in the middle of which we are due to the pandemic. The firm is making big efforts to boost the XRP ecosystem and also to push the mass adoption for the digital asset. Santander plans to expand It\u2019s been revealed that \u2026\n",
+        "publishedAt": "2020-07-11T06:47:01.000Z",
+        "title": "Santander Plans To Expand Use Of Ripple Payments Platform",
+        "url": "https://cryptocontrol.io/r/api/article/5f0977900b40f10019f42578?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5bac83ff0c38a70019d8ffd9",
+            "name": "Oracle Times",
+            "url": "https://oracletimes.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bac83ff0c38a70019d8ffd9.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0977900b40f10019f42578-1594455953500.jpg",
+        "sourceDomain": "cryptogazette.com",
+        "originalImageUrl": "https://cryptogazette.com/wp-content/uploads/2020/07/4294575955_5e2ea18bbb_b.jpg"
+    },
+    {
+        "_id": "5f0904620b40f10019f09d9f",
+        "hotness": 73816.23750137663,
+        "activityHotness": 0.23532545070416902,
+        "primaryCategory": "General",
+        "words": 734,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45de3",
+                "name": "Dogecoin",
+                "slug": "dogecoin",
+                "tradingSymbol": "DOGE"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45f2b",
+                "name": "Altcoin",
+                "slug": "altcoin-alt",
+                "tradingSymbol": "alt"
+            },
+            {
+                "_id": "5e3844a816c3760019f74be2",
+                "name": "Rally",
+                "slug": "rally",
+                "tradingSymbol": "RALLY"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dda",
+                "name": "ChainLink",
+                "slug": "chainlink",
+                "tradingSymbol": "LINK"
+            }
+        ],
+        "description": "Another week, another round of\u00a0Crypto Tidbits. After over a week of ranging, Bitcoin attempted to break higher this week. The flagship cryptocurrency moved from the weekend lows of $8,900 to a weekly high of $9,470 on major exchanges. The move has since been reversed, with BTC trading at $9,200 as\u2026",
+        "publishedAt": "2020-07-11T00:00:47.000Z",
+        "title": "Crypto Tidbits: TikTok\u2019s Dogecoin Craze, Coinbase on Stock Markets, Bitcoin Holds $9k",
+        "url": "https://cryptocontrol.io/r/api/article/5f0904620b40f10019f09d9f?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "59d71bd7ef8bf95cc2aaf579",
+            "name": "NewsBTC",
+            "url": "http://www.newsbtc.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d71bd7ef8bf95cc2aaf579.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0904620b40f10019f09d9f-1594426467001.jpg",
+        "sourceDomain": "newsbtc.com",
+        "originalImageUrl": "https://www.newsbtc.com/wp-content/uploads/2020/06/shutterstock_1063071509-860x484.jpg"
+    },
+    {
+        "_id": "5f08fc5a0b40f10019f05d7b",
+        "hotness": 73816.07202911358,
+        "activityHotness": 0.2311031876619344,
+        "primaryCategory": "General",
+        "words": 423,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "5e3844a816c3760019f74be2",
+                "name": "Rally",
+                "slug": "rally",
+                "tradingSymbol": "RALLY"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dcb",
+                "name": "Stellar Lumens",
+                "slug": "stellar",
+                "tradingSymbol": "XLM"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5afcc60ced3b0e000f40d55c",
+                "name": "KEY",
+                "slug": "key",
+                "tradingSymbol": "key"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            }
+        ],
+        "description": "Stellar\u2019s native cryptocurrency, Lumens (XLM) in the prior week had traded around $0.065 where it had been held tight within a consolidation bout. In a bull streak, XLM rose to set fresh highs of $0.098 last Thursday. This rally saw Stellar (XLM) bullish momentum it incurred in the last few days and\u2026",
+        "publishedAt": "2020-07-10T23:02:44.000Z",
+        "title": "Despite Bitcoin Lacklustre Performance, Stellar (XLM) Surges Past $0.095 Setting Yearly High but This Anomaly Surfaces",
+        "url": "https://cryptocontrol.io/r/api/article/5f08fc5a0b40f10019f05d7b?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5bacc03a0c38a7001908f88f",
+            "name": "Kryptomoney",
+            "url": "http://kryptomoney.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bacc03a0c38a7001908f88f.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f08fc5a0b40f10019f05d7b-1594424410563.png",
+        "sourceDomain": "kryptomoney.com",
+        "originalImageUrl": "https://kryptomoney.com/wp-content/uploads/2020/07/download-6.png"
+    },
+    {
+        "_id": "5f08cf8d0b40f10019ef022d",
+        "hotness": 73815.55554097722,
+        "activityHotness": 0.19669838461896733,
+        "primaryCategory": "Analysis",
+        "words": 201,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "The co-founder and executive chairman of Ripple, Chris Larsen is spending his treasure on installing\n",
+        "publishedAt": "2020-07-10T20:09:11.000Z",
+        "title": "XRP News Today: Ripple Cofounder Gets Thousand Cameras Installed Around San Francisco Streets",
+        "url": "https://cryptocontrol.io/r/api/article/5f08cf8d0b40f10019ef022d?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5d289373f9eb99001a06e0f3",
+            "name": "Koinpost",
+            "url": "https://koinpost.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5d289373f9eb99001a06e0f3.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f08cf8d0b40f10019ef022d-1594412941446.jpg",
+        "sourceDomain": "koinpost.com",
+        "originalImageUrl": "https://koinpost.com/wp-content/uploads/2020/07/monitoring-1305045_640.jpg"
+    },
+    {
+        "_id": "5f08ca800b40f10019eedb26",
+        "hotness": 73815.45776345483,
+        "activityHotness": 0.17030975114131133,
+        "primaryCategory": "General",
+        "words": 199,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "The multinational Spanish bank, Banco Santander, has successfully implemented Ripple payments in 19 countries across the world. The bank plans to expand the services to more countries. In 2018, Santander launched One Pay FX, a blockchain-driven solution for international payments, in partnership\u2026",
+        "publishedAt": "2020-07-10T19:43:29.000Z",
+        "title": "Banco Santander to Expand Ripple\u2019s Reach Further Than Current Presence In 19 Countries\u00a0",
+        "url": "https://cryptocontrol.io/r/api/article/5f08ca800b40f10019eedb26?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5bacc03a0c38a7001908f88f",
+            "name": "Kryptomoney",
+            "url": "http://kryptomoney.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bacc03a0c38a7001908f88f.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f08ca800b40f10019eedb26-1594411649463.jpg",
+        "sourceDomain": "kryptomoney.com",
+        "originalImageUrl": "https://kryptomoney.com/wp-content/uploads/2019/12/Santander-1.jpg"
+    },
+    {
+        "_id": "5f08c9a40b40f10019eed875",
+        "hotness": 73816.85034308051,
+        "activityHotness": 1.6765467842139572,
+        "primaryCategory": "ICO",
+        "words": 388,
+        "similarArticles": [
+            {
+                "_id": "5f08c6600b40f10019eeb195",
+                "title": "Santander expands Ripple (XRP) app to serve the U.S. and 18 others",
+                "publishedAt": "2020-07-10T19:41:26.000Z",
+                "sourceDomain": "cryptoslate.com",
+                "url": "https://cryptocontrol.io/r/api/article/5f08c6600b40f10019eeb195?ref=5f0df53922ee0f001886f52c",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f08c6600b40f10019eeb195-1594410594177.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Santander has expanded its One Pay FX app, the transformative cross-border payments solution, to 19 countries in a partnership with Ripple. Spanish multinational commercial bank Banco Santander has partnered with Ripple to facilitate speedy and transparent cross-border transactions. The Ripple-based\u2026",
+        "publishedAt": "2020-07-10T19:02:34.000Z",
+        "title": "Santander Expands One Pay FX to 19 Countries With Ripple",
+        "url": "https://cryptocontrol.io/r/api/article/5f08c9a40b40f10019eed875?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5b964b640c38a70019787e71",
+            "name": "BeInCrypto",
+            "url": "https://beincrypto.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b964b640c38a70019787e71.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f08c9a40b40f10019eed875-1594411431188.jpg",
+        "sourceDomain": "beincrypto.com",
+        "originalImageUrl": "https://s32659.pcdn.co/wp-content/uploads/2020/02/BIC_ripple_xrp_wallet.jpg.optimal.jpg"
+    },
+    {
+        "_id": "5f08b5200b40f10019ee2dbd",
+        "hotness": 73815.28733394563,
+        "activityHotness": 0.2873339456220478,
+        "primaryCategory": "General",
+        "words": 639,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45de3",
+                "name": "Dogecoin",
+                "slug": "dogecoin",
+                "tradingSymbol": "DOGE"
+            },
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbc",
+                "name": "Cardano",
+                "slug": "cardano",
+                "tradingSymbol": "ADA"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dd4",
+                "name": "Binance Coin",
+                "slug": "binance-coin",
+                "tradingSymbol": "BNB"
+            },
+            {
+                "_id": "5bfc89093c4bad0016670af9",
+                "name": "Bitcoin SV",
+                "slug": "bitcoin-sv",
+                "tradingSymbol": "BSV"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45daf",
+                "name": "Bitcoin Cash",
+                "slug": "bitcoin-cash",
+                "tradingSymbol": "BCH"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Though TikTokers found one coin to pump, it looks like cryptoassets haven't taken over the major video-sharing social networking service yet. The creators of crypto TikToks (CrypToks, if you will) are few, and videos on the topic are relatively scarce. The power of TitTokers to affect the current\u2026",
+        "publishedAt": "2020-07-10T18:00:00.000Z",
+        "title": "Bitcoin, Ethereum & Co Have Plenty of Room Left to Take Over TikTok",
+        "url": "https://cryptocontrol.io/r/api/article/5f08b5200b40f10019ee2dbd?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5c8fbb44a4410000111f614b",
+            "name": "CryptoNews",
+            "url": "https://cryptonews.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5c8fbb44a4410000111f614b.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f08b5200b40f10019ee2dbd-1594406176088.jpg",
+        "sourceDomain": "cryptonews.com",
+        "originalImageUrl": "https://cimg.co/w/articles/0/5f0/8a03046e3d.jpg"
+    },
+    {
+        "_id": "5f08b5bb0b40f10019ee3069",
+        "hotness": 73815.1063211341,
+        "activityHotness": 0.2816452081818427,
+        "primaryCategory": "Analysis",
+        "words": 722,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5e3844a916c3760019f74d48",
+                "name": "Safe",
+                "slug": "safe",
+                "tradingSymbol": "SAFE"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbc",
+                "name": "Cardano",
+                "slug": "cardano",
+                "tradingSymbol": "ADA"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbe",
+                "name": "Tether",
+                "slug": "tether",
+                "tradingSymbol": "USDT"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45f2b",
+                "name": "Altcoin",
+                "slug": "altcoin-alt",
+                "tradingSymbol": "alt"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74e66",
+                "name": "Elrond",
+                "slug": "elrond",
+                "tradingSymbol": "ERD"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45de3",
+                "name": "Dogecoin",
+                "slug": "dogecoin",
+                "tradingSymbol": "DOGE"
+            }
+        ],
+        "description": "It\u2019s safe to say that July has been relatively dull for Bitcoin when it comes to price action. The major cryptocurrency spent the last week trading in a range between $9,100 and $9,400 without any major fluctuations. It\u2019s also worth noting that legacy markets and Bitcoin\u2019s price remain aggressively\u2026",
+        "publishedAt": "2020-07-10T16:56:53.000Z",
+        "title": "July Opens With Dull BTC Price Action Despite Stocks ATH: The Crypto Weekly Market Update",
+        "url": "https://cryptocontrol.io/r/api/article/5f08b5bb0b40f10019ee3069?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5ce406880175730010f47558",
+            "name": "Crypto Potato",
+            "url": "https://cryptopotato.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ce406880175730010f47558.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f08b5bb0b40f10019ee3069-1594406331035.jpg",
+        "sourceDomain": "cryptopotato.com",
+        "originalImageUrl": "https://cryptopotato.com/wp-content/uploads/2020/07/fridaypost.jpg"
+    },
+    {
+        "_id": "5f089f870b40f10019ed6d02",
+        "hotness": 73816.4266817596,
+        "activityHotness": 1.685015092936961,
+        "primaryCategory": "General",
+        "words": 329,
+        "similarArticles": [
+            {
+                "_id": "5f0864d20b40f10019eb52f6",
+                "title": "Ripple Boss Pays for 1,000 Cameras to Monitor San Francisco\u2019s Streets",
+                "publishedAt": "2020-07-10T11:31:18.000Z",
+                "sourceDomain": "cryptonews.com",
+                "url": "https://cryptocontrol.io/r/api/article/5f0864d20b40f10019eb52f6?ref=5f0df53922ee0f001886f52c",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0864d20b40f10019eb52f6-1594385620484.png"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Chris Larsen funded a massive surveillance camera network across San Francisco\u2019s streets as an \u201calternative\u201d urban security system.\nCrypto mogul and Ripple co-founder, Chris Larsen, paid over $4 million to install 1,000 high-definition cameras on the streets of San Francisco. He claims his goal is\u2026",
+        "publishedAt": "2020-07-10T16:27:00.000Z",
+        "title": "One of Ripple\u2019s Co-Founders Is Spending a Fortune Installing Cameras in San Francisco",
+        "url": "https://cryptocontrol.io/r/api/article/5f089f870b40f10019ed6d02?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "59d70be3ef8bf95cc2aa2b4f",
+            "name": "CoinTelegraph",
+            "url": "https://cointelegraph.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59d70be3ef8bf95cc2aa2b4f.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f089f870b40f10019ed6d02-1594400647776.jpg",
+        "sourceDomain": "cointelegraph.com",
+        "originalImageUrl": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy85YmIxZWI5NDM0YzJmM2YzMThjNDJjNzQ3NmE2M2Q1YS5qcGc=.jpg"
+    },
+    {
+        "_id": "5f089a410b40f10019ed3cb4",
+        "hotness": 73814.89300896623,
+        "activityHotness": 0.18712933659434194,
+        "primaryCategory": "Analysis",
+        "words": 431,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5e3844a816c3760019f74be2",
+                "name": "Rally",
+                "slug": "rally",
+                "tradingSymbol": "RALLY"
+            },
+            {
+                "_id": "5a7b931102ac032bc99781f1",
+                "name": "DATA",
+                "slug": "data",
+                "tradingSymbol": "DTA"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45e20",
+                "name": "DECENT",
+                "slug": "decent",
+                "tradingSymbol": "DCT"
+            }
+        ],
+        "description": "Catch up on the latest crypto market news at The Currency Analytics.\nXRP has been losing steam and the investors report that they are tired of holding their bags to see the\u2026\n",
+        "publishedAt": "2020-07-10T16:14:07.000Z",
+        "title": "Ripple (XRP) Price Rally Not able to Work Past $0.20 Ranges Everyone Walking China Crawling",
+        "url": "https://cryptocontrol.io/r/api/article/5f089a410b40f10019ed3cb4?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5c509bf423b00e00101f000b",
+            "name": "TheCurrencyAnalytics",
+            "url": "https://thecurrencyanalytics.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5c509bf423b00e00101f000b.jpg"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f089a410b40f10019ed3cb4-1594399297201.jpg",
+        "sourceDomain": "thecurrencyanalytics.com",
+        "originalImageUrl": "https://cdn.thecurrencyanalytics.com/wp-content/uploads/2020/07/RippleNetXRP-300x300.jpg"
+    },
+    {
+        "_id": "5f0886fb0b40f10019ec8524",
+        "hotness": 73817.73807403831,
+        "activityHotness": 3.1924258901523332,
+        "primaryCategory": "Analysis",
+        "words": 566,
+        "similarArticles": [
+            {
+                "_id": "5f0746880b40f10019e2b351",
+                "title": "Ripple's XRP 57,000 Times More Environmentally Friendly Than...",
+                "publishedAt": "2020-07-09T15:30:39.000Z",
+                "sourceDomain": "coinspeaker.com",
+                "url": "https://cryptocontrol.io/r/api/article/5f0746880b40f10019e2b351?ref=5f0df53922ee0f001886f52c",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0746880b40f10019e2b351-1594312328461.png"
+            },
+            {
+                "_id": "5f0762df0b40f10019e3b494",
+                "title": "XRP is 57000x Sustainable for our Planet than Bitcoin \u2013 Ripple CTO",
+                "publishedAt": "2020-07-09T17:23:18.000Z",
+                "sourceDomain": "newslogical.com",
+                "url": "https://cryptocontrol.io/r/api/article/5f0762df0b40f10019e3b494?ref=5f0df53922ee0f001886f52c",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0762df0b40f10019e3b494-1594319583879.png"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5ac2c404a8134644d0cc0a32",
+                "name": "Consensus",
+                "slug": "consensus",
+                "tradingSymbol": "SEN"
+            },
+            {
+                "_id": "5b7ca78b0c38a700190ebdff",
+                "name": "Own",
+                "slug": "own",
+                "tradingSymbol": "CHX"
+            }
+        ],
+        "description": "Ripple CTO David Schwartz criticized Bitcoin in a new blog post that claims XRP\u2019s consensus mechanism is more environmental-friendly than BTC\u2019s proof-of-work (POW), which \u2018consumes a lot of energy and ultimately harms the environment\u2019. XRP, Ripple posited, is a cryptocurrency created with\u2026",
+        "publishedAt": "2020-07-10T15:16:26.000Z",
+        "title": "Ripple CTO David Schwartz Criticizes Bitcoin For Not Being Eco-Friendly Like XRP",
+        "url": "https://cryptocontrol.io/r/api/article/5f0886fb0b40f10019ec8524?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5adc20e7ec0af7be3539d369",
+            "name": "ZyCrypto",
+            "url": "https://zycrypto.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5adc20e7ec0af7be3539d369.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0886fb0b40f10019ec8524-1594394363876.jpg",
+        "sourceDomain": "zycrypto.com",
+        "originalImageUrl": "https://zycrypto.com/wp-content/uploads/2020/07/Ripple-CTO-David-Schwartz-Criticizes-Bitcoin-For-Not-Being-Eco-Friendly-Like-XRP.jpg"
+    },
+    {
+        "_id": "5f0881240b40f10019ec547e",
+        "hotness": 73814.73257650755,
+        "activityHotness": 0.25303947050936476,
+        "primaryCategory": "Analysis",
+        "words": 1257,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59e81c073f09e76f614b",
+                "name": "Bitcoin",
+                "slug": "bitcoin",
+                "tradingSymbol": "BTC"
+            },
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dbc",
+                "name": "Cardano",
+                "slug": "cardano",
+                "tradingSymbol": "ADA"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45de3",
+                "name": "Dogecoin",
+                "slug": "dogecoin",
+                "tradingSymbol": "DOGE"
+            }
+        ],
+        "description": "Bitcoin Bitcoin saw a small 1% increase this week as it continued to trade sideways within the confines of a symmetrical triangle pattern. BTC has been trapped within this triangle since the start of June 2020, and a breakout will dictate the next direction. Looking ahead, if the buyers can rebound\u2026",
+        "publishedAt": "2020-07-10T14:52:38.000Z",
+        "title": "Crypto Price Analysis & Overview July 10: Bitcoin, Ethereum, Ripple, Cardano,and Doge",
+        "url": "https://cryptocontrol.io/r/api/article/5f0881240b40f10019ec547e?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5ce406880175730010f47558",
+            "name": "Crypto Potato",
+            "url": "https://cryptopotato.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5ce406880175730010f47558.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0881240b40f10019ec547e-1594392868160.jpg",
+        "sourceDomain": "cryptopotato.com",
+        "originalImageUrl": "https://cryptopotato.com/wp-content/uploads/2020/07/overview-5-min.jpg"
+    },
+    {
+        "_id": "5f084e860b40f10019ea9cd7",
+        "hotness": 73814.06530264392,
+        "activityHotness": 0.18544153281560677,
+        "primaryCategory": "General",
+        "words": 385,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5c05c3873c4bad0016c2504d",
+                "name": "Online",
+                "slug": "online",
+                "tradingSymbol": "oio"
+            },
+            {
+                "_id": "5e3844a916c3760019f74d48",
+                "name": "Safe",
+                "slug": "safe",
+                "tradingSymbol": "SAFE"
+            },
+            {
+                "_id": "5b6a328530a21d000f00ae48",
+                "name": "Giant",
+                "slug": "giant-coin",
+                "tradingSymbol": "GIC"
+            }
+        ],
+        "description": "The multinational bank Banco Santander of Spain has decided to expand its global payments services to further 19 countries. Based on the customers\u2019 demand and growth, the bank will employ blockchain technology to offer clients a safe, cheap, and transparent way of cross-border payments with the help\u2026",
+        "publishedAt": "2020-07-10T11:16:45.000Z",
+        "title": "Spain\u2019s Multinational Bank to offer Global Payments in 19 more Countries by using Ripple\u2019s Payment...",
+        "url": "https://cryptocontrol.io/r/api/article/5f084e860b40f10019ea9cd7?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5d79ee2e26ceed001aa0514b",
+            "name": "Tokenhell",
+            "url": "https://tokenhell.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5d79ee2e26ceed001aa0514b.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f084e860b40f10019ea9cd7-1594379911160.png",
+        "sourceDomain": "tokenhell.com",
+        "originalImageUrl": "https://tokenhell.com/wp-content/uploads/ripple-size.png"
+    },
+    {
+        "_id": "5f08437f0b40f10019ea59d3",
+        "hotness": 73813.90568467967,
+        "activityHotness": 0.23887912413184775,
+        "primaryCategory": "Analysis",
+        "words": 488,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59d21e9b83a0523906a45dc6",
+                "name": "Basic Attention Token",
+                "slug": "basic-attention-token",
+                "tradingSymbol": "BAT"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45f2b",
+                "name": "Altcoin",
+                "slug": "altcoin-alt",
+                "tradingSymbol": "alt"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45db0",
+                "name": "Litecoin",
+                "slug": "litecoin",
+                "tradingSymbol": "LTC"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45dc5",
+                "name": "EOS",
+                "slug": "eos",
+                "tradingSymbol": "EOS"
+            }
+        ],
+        "description": "Bitcoin's brief foray above its immediate resistance failed. Again. As always, the king coin's movement down the charts had a ripple effect across the altcoin market, with other cryptos like Litecoin,\n",
+        "publishedAt": "2020-07-10T10:00:03.000Z",
+        "title": "Litecoin, EOS, BAT Price Analysis: 10 July",
+        "url": "https://cryptocontrol.io/r/api/article/5f08437f0b40f10019ea59d3?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5b4b57d8c831fd000f6b7e16",
+            "name": "AMB Crypto",
+            "url": "https://ambcrypto.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b4b57d8c831fd000f6b7e16.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f08437f0b40f10019ea59d3-1594377088493.jpg",
+        "sourceDomain": "eng.ambcrypto.com",
+        "originalImageUrl": "https://sfo2.digitaloceanspaces.com/engamb/wp-content/uploads/2020/07/10131528/business-1836990_1280-1.jpg"
+    },
+    {
+        "_id": "5f083f130b40f10019ea324a",
+        "hotness": 73813.84367748884,
+        "activityHotness": 0.1770108221696074,
+        "primaryCategory": "ICO",
+        "words": 269,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb59f9b0836b0a63aebc7c",
+                "name": "Ethereum",
+                "tradingSymbol": "ETH",
+                "slug": "ethereum"
+            },
+            {
+                "_id": "5b6a328530a21d000f00ae48",
+                "name": "Giant",
+                "slug": "giant-coin",
+                "tradingSymbol": "GIC"
+            },
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            }
+        ],
+        "description": "Cryptocurrency scams continue to appear on YouTube, misusing content from influential people in the space and stealing from the gullible.\n",
+        "publishedAt": "2020-07-10T10:00:00.000Z",
+        "title": "Crypto 'Giveaway' Scams Continue to Flourish on YouTube - CoinDesk",
+        "url": "https://cryptocontrol.io/r/api/article/5f083f130b40f10019ea324a?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "59ce11393a44cf289a9a71f5",
+            "name": "CoinDesk",
+            "url": "http://coindesk.com",
+            "favicon": "https://assets.cryptocontrol.io/favicons/59ce11393a44cf289a9a71f5.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f083f130b40f10019ea324a-1594375955962.jpg",
+        "sourceDomain": "coindesk.com",
+        "originalImageUrl": "https://static.coindesk.com/wp-content/uploads/2018/02/youtube-2-e1517858178685.jpg"
+    },
+    {
+        "_id": "5f0849d50b40f10019ea6cf2",
+        "hotness": 73813.86459215602,
+        "activityHotness": 0.21019400787607845,
+        "primaryCategory": "General",
+        "words": 391,
+        "similarArticles": [],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5de5a582d37160001ab4bdff",
+                "name": "XRP",
+                "slug": "xrp",
+                "tradingSymbol": "XRP"
+            },
+            {
+                "_id": "5e3844aa16c3760019f74f7b",
+                "name": "TOP",
+                "slug": "top",
+                "tradingSymbol": "TOP"
+            },
+            {
+                "_id": "5b9afa060c38a7001913a55b",
+                "name": "Gainer",
+                "slug": "gainer",
+                "tradingSymbol": "gnr"
+            },
+            {
+                "_id": "5cd36d8270d74700100891ad",
+                "name": "NEXT",
+                "slug": "next",
+                "tradingSymbol": "NET"
+            },
+            {
+                "_id": "59d21e9b83a0523906a45de3",
+                "name": "Dogecoin",
+                "slug": "dogecoin",
+                "tradingSymbol": "DOGE"
+            }
+        ],
+        "description": "The price of XRP took a U-turn yesterday after initiating a bearish price movement which sent its price crashing below the $0.2 level. Although the top cryptocurrency is still up by around 11% on a weekly price chart, it appears the gains of the week will soon be erased by an actively forming strong\u2026",
+        "publishedAt": "2020-07-10T09:55:35.000Z",
+        "title": "Ripple Price Plunges By 5% As Prices Slip Below $0.2",
+        "url": "https://cryptocontrol.io/r/api/article/5f0849d50b40f10019ea6cf2?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5bf00e7e3c4bad0016748067",
+            "name": "Coinpedia",
+            "url": "https://coinpedia.org/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5bf00e7e3c4bad0016748067.png"
+        },
+        "sourceDomain": "coinpedia.org",
+        "originalImageUrl": "https://image.coinpedia.org/wp-content/uploads/2020/06/27092837/Ripple-price.jpg"
+    },
+    {
+        "_id": "5f0823960b40f10019e974d6",
+        "hotness": 73816.48332057573,
+        "activityHotness": 3.181977983149331,
+        "primaryCategory": "General",
+        "words": 523,
+        "similarArticles": [
+            {
+                "_id": "5f076b480b40f10019e3f88d",
+                "title": "Santander Adds Several Available Regions For App in Partnership With Ripple ",
+                "publishedAt": "2020-07-09T18:09:44.000Z",
+                "sourceDomain": "cointelegraph.com",
+                "url": "https://cryptocontrol.io/r/api/article/5f076b480b40f10019e3f88d?ref=5f0df53922ee0f001886f52c",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f076b480b40f10019e3f88d-1594321736076.jpg"
+            },
+            {
+                "_id": "5f0778250b40f10019e468b9",
+                "title": "Banco Santander Taps RippleNet to Speed Up Cross-Border Payments",
+                "publishedAt": "2020-07-09T19:04:03.000Z",
+                "sourceDomain": "financemagnates.com",
+                "url": "https://cryptocontrol.io/r/api/article/5f0778250b40f10019e468b9?ref=5f0df53922ee0f001886f52c",
+                "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0778250b40f10019e468b9-1594325030171.jpg"
+            }
+        ],
+        "coins": [
+            {
+                "_id": "59cb5a047ab17a0b2ec00edf",
+                "name": "Ripple",
+                "tradingSymbol": "xrp",
+                "slug": "ripple"
+            },
+            {
+                "_id": "5b6a328530a21d000f00ae48",
+                "name": "Giant",
+                "slug": "giant-coin",
+                "tradingSymbol": "GIC"
+            },
+            {
+                "_id": "5a1aafdbda3d21115462ee14",
+                "name": "Change",
+                "slug": "change",
+                "tradingSymbol": "CAG"
+            }
+        ],
+        "description": "Banco Santander is working to expand its One Pay FX international payments to 19 more countries and to do it the bank is working with Ripple.",
+        "publishedAt": "2020-07-10T07:48:29.000Z",
+        "title": "Banco Santander in Partnership with Ripple Expands Its Cross-Border...",
+        "url": "https://cryptocontrol.io/r/api/article/5f0823960b40f10019e974d6?ref=5f0df53922ee0f001886f52c",
+        "source": {
+            "_id": "5b4b5794c831fd000f6b5152",
+            "name": "CoinSpeaker",
+            "url": "https://www.coinspeaker.com/",
+            "favicon": "https://assets.cryptocontrol.io/favicons/5b4b5794c831fd000f6b5152.png"
+        },
+        "thumbnail": "https://cloudfront.cryptocontrol.io/thumbnails/5f0823960b40f10019e974d6-1594368918676.jpg",
+        "sourceDomain": "coinspeaker.com",
+        "originalImageUrl": "https://www.coinspeaker.com/wp-content/uploads/2020/07/banco-santander-ripple-payments.jpg"
+    }
+]

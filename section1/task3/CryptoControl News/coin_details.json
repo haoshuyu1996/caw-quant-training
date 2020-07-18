@@ -1,0 +1,44 @@
+{
+    "description": "Ethereum is a decentralized platform for applications that run exactly as programmed without any chance of fraud, censorship or third-party interference.",
+    "gitrepos": [],
+    "links": [
+        {
+            "_id": "5cbb5ea9e9864a16dac61a59",
+            "type": "reddit",
+            "name": "Ethereum Reddit",
+            "link": "https://www.reddit.com/r/ethereum/"
+        },
+        {
+            "_id": "5cbb5ea9e9864a16dac61a58",
+            "type": "website",
+            "name": "Ethereum Blog",
+            "link": "https://blog.ethereum.org/"
+        },
+        {
+            "_id": "5cbb5ea9e9864a16dac61a57",
+            "type": "reddit",
+            "name": "r/ethtrader Reddit",
+            "link": "https://www.reddit.com/r/ethtrader/"
+        },
+        {
+            "_id": "5cbb5ea9e9864a16dac61a56",
+            "type": "twitter",
+            "name": "Co-founder of Ethereum",
+            "link": "https://twitter.com/vitalikbuterin"
+        },
+        {
+            "_id": "5cbb5ea9e9864a16dac61a55",
+            "type": "twitter",
+            "name": "Ethereum Twitter",
+            "link": "https://twitter.com/ethereum"
+        }
+    ],
+    "subreddits": [
+        "ethereum",
+        "ethtrader"
+    ],
+    "twitterUsernames": [
+        "vitalikbuterin",
+        "ethereum"
+    ]
+}
