@@ -5,7 +5,7 @@ import os
 import json
 import csv
 
-data_dir = './CryptoControl News'
+data_dir = './CryptoControl_News'
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 path = os.getcwd()
 os.mkdir(data_dir)
