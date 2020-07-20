@@ -10,18 +10,27 @@ This task will guide you to use [Backtrader](https://www.backtrader.com/) to dev
 
 ### 1. Create a Seperate Repo and Virtual Environment
 
-Set up a new folder/repo to do all tasks in section2. Follow the file structure below:
+Set up a file structure in `section2/` like this to do all tasks:
 
 ```
-project-name
-│   README.md
-│   requirements.txt    
-└───data
+section2
+├── README.md
+├── task1
+│   └── README.md
+├── task2
+│   └── README.md
+└── task3
+│   └── README.md
+└── data # folder to contain all data
 │       BTC_USDT_1h
-└───log
+└── log # folder to contain all log files
 │       logfile
-└───report
-        reportfile
+└── report # folder to containe reports. e.x. photo and optmization table
+│       reportfile
+├── README.md
+├── requirements.txt
+├── your_script1.py
+└── your_script2.py 
 ```
 
 Note: 
